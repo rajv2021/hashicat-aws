@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow Cat's World!</h2></center>
-  Welcome to TheModel101 app. Replace this text with your own.
+  Welcome to TheModel202 app. Replace this text with your own.
   <!-- END -->
 
   </div>
